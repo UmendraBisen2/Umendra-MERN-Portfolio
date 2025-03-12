@@ -8,20 +8,6 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
-
-// import React from "react";
-// import { Container, Row, Col } from "react-bootstrap";
-// import ProjectCard from "./ProjectCards";
-// import Particle from "../Particle";
-// import leaf from "../../Assets/Projects/Pizza.png";
-// import emotion from "../../Assets/Projects/Stack.png";
-// import editor from "../../Assets/Projects/tatto.png";
-// import chatify from "../../Assets/Projects/shoes.png";
-// import suicide from "../../Assets/Projects/quiz.png";
-// import bitsOfCode from "../../Assets/Projects/calcu.png";
-
-
-
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -107,3 +93,16 @@ function Projects() {
 }
 
 export default Projects;
+
+
+
+// import React from "react";
+// import { Container, Row, Col } from "react-bootstrap";
+// import ProjectCard from "./ProjectCards";
+// import Particle from "../Particle";
+// import leaf from "../../Assets/Projects/Pizza.png";
+// import emotion from "../../Assets/Projects/Stack.png";
+// import editor from "../../Assets/Projects/tatto.png";
+// import chatify from "../../Assets/Projects/shoes.png";
+// import suicide from "../../Assets/Projects/quiz.png";
+// import bitsOfCode from "../../Assets/Projects/calcu.png";
