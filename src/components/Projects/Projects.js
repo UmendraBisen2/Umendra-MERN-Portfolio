@@ -39,7 +39,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Pizza Website"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Building a website for a pizza shop is a fun project that combines your HTML, CSS, and JavaScript skills to create a mouthwatering online presence. You can include menu items, ordering options, delivery information, and more, honing your web development abilities."
               ghLink="https://github.com/UmendraBisen2"
               demoLink="https://umendra-pizzawebsite.vercel.app/"
             />
@@ -50,7 +50,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Portfolio Website"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="A personal portfolio website is a that showcases your work, skills, and experience in a professional manner. It's a digital portfolio that allows potential clients or employers to learn more about you and your work.Personal portfolio website typically include examples of your work, your professional background, and your contact information"
               ghLink="https://github.com/UmendraBisen2"
               demoLink="https://umendra-portfolio-o.vercel.app/"
             />
@@ -61,7 +61,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Tatto Gallery"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="An Image Gallery is a collection of images displayed in a grid or slideshow format on a webpage. To create an Image Gallery using JavaScript, you can dynamically load images, create HTML elements, and use Tailwind CSS for styling. JavaScript can add interactivity, like transitions and navigation controls."
               ghLink="https://github.com/UmendraBisen2"
               demoLink="https://umendra-tattoo.vercel.app/"              
             />
@@ -72,7 +72,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Shoes Website"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Creating a simple calculator is a great way to start learning web development. In this tutorial, you'll build your first calculator using HTML, CSS, and JavaScript. These three technologies work together to create a fully functional web application. Whether you're a beginner or looking to refresh your skills, this step-by-step guide will help you understand the basics of coding and web design."
               ghLink="https://github.com/UmendraBisen2"
               demoLink="https://shoes-website-g.vercel.app/"
             />
@@ -83,7 +83,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Quiz App"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Quiz applications are a fantastic way to engage and entertain users on websites. Whether you want to test knowledge, provide educational content, or simply offer a fun activity, building a quiz application using HTML, CSS, and JavaScript is an excellent choice. In this step-by-step guide, we will walk you through the process of creating a quiz application from scratch."
               ghLink="https://github.com/UmendraBisen2"
              demoLink="https://umendra-quiz-app-ej.vercel.app/"
             />
@@ -94,8 +94,8 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="Calculator"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="Creating a simple calculator is a great way to start learning web development. In this tutorial, you'll build your first calculator using HTML, CSS, and JavaScript. These three technologies work together to create a fully functional web application. Whether you're a beginner or looking to refresh your skills, this step-by-step guide will help you understand the basics of coding and web design."
+
               ghLink="https://github.com/UmendraBisen2"
                demoLink="https://umendra-cal.vercel.app/" 
             />
